@@ -1,0 +1,13 @@
+/home/william/repos/transRef/bin/Debug/netcoreapp3.1/checkSum
+/home/william/repos/transRef/bin/Debug/netcoreapp3.1/checkSum.deps.json
+/home/william/repos/transRef/bin/Debug/netcoreapp3.1/checkSum.runtimeconfig.json
+/home/william/repos/transRef/bin/Debug/netcoreapp3.1/checkSum.runtimeconfig.dev.json
+/home/william/repos/transRef/bin/Debug/netcoreapp3.1/checkSum.dll
+/home/william/repos/transRef/bin/Debug/netcoreapp3.1/checkSum.pdb
+/home/william/repos/transRef/obj/Debug/netcoreapp3.1/checkSum.csprojAssemblyReference.cache
+/home/william/repos/transRef/obj/Debug/netcoreapp3.1/checkSum.AssemblyInfoInputs.cache
+/home/william/repos/transRef/obj/Debug/netcoreapp3.1/checkSum.AssemblyInfo.cs
+/home/william/repos/transRef/obj/Debug/netcoreapp3.1/checkSum.csproj.CoreCompileInputs.cache
+/home/william/repos/transRef/obj/Debug/netcoreapp3.1/checkSum.dll
+/home/william/repos/transRef/obj/Debug/netcoreapp3.1/checkSum.pdb
+/home/william/repos/transRef/obj/Debug/netcoreapp3.1/checkSum.genruntimeconfig.cache

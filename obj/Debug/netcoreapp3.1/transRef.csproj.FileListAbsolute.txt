@@ -1,0 +1,13 @@
+/home/william/repos/transRef/bin/Debug/netcoreapp3.1/transRef
+/home/william/repos/transRef/bin/Debug/netcoreapp3.1/transRef.deps.json
+/home/william/repos/transRef/bin/Debug/netcoreapp3.1/transRef.runtimeconfig.json
+/home/william/repos/transRef/bin/Debug/netcoreapp3.1/transRef.runtimeconfig.dev.json
+/home/william/repos/transRef/bin/Debug/netcoreapp3.1/transRef.dll
+/home/william/repos/transRef/bin/Debug/netcoreapp3.1/transRef.pdb
+/home/william/repos/transRef/obj/Debug/netcoreapp3.1/transRef.csprojAssemblyReference.cache
+/home/william/repos/transRef/obj/Debug/netcoreapp3.1/transRef.AssemblyInfoInputs.cache
+/home/william/repos/transRef/obj/Debug/netcoreapp3.1/transRef.AssemblyInfo.cs
+/home/william/repos/transRef/obj/Debug/netcoreapp3.1/transRef.csproj.CoreCompileInputs.cache
+/home/william/repos/transRef/obj/Debug/netcoreapp3.1/transRef.dll
+/home/william/repos/transRef/obj/Debug/netcoreapp3.1/transRef.pdb
+/home/william/repos/transRef/obj/Debug/netcoreapp3.1/transRef.genruntimeconfig.cache
